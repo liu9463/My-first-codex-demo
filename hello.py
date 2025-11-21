@@ -1,1 +1,5 @@
 print("Hello, Codex and GitHub!")
+print("This is my first GitHub repository!")
+print("Hello, Codex and GitHub!")
+print("我正在学习GitHub和Codex的配合使用")
+print("这是我的第一次代码修改练习")
